@@ -156,7 +156,7 @@
     "menu" : [
         {
             "active" : "true",
-            "active_reward" : "false",
+            "active_reward" : "true",
             "name" : "Guide",
             "ico" : "https://9asso.github.io/published/imgs/btmore.png",
             "bg" : "#3F51B5"
